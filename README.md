@@ -5,7 +5,7 @@
 <img align="right"alt="coading"width="400" scr="![image](https://github.com/Tonmoy13pt/Tonmoy13pt/assets/129619089/141eb0ac-dea7-444b-b59d-a9cc24d009a4)
 " >
 
-<img src="code.jpg"  width="400" height="300">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy13p&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy13p" /> </p>
 
